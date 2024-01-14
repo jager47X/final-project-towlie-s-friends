@@ -1,0 +1,24 @@
+.flexbox{
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+    background-color:rgb(159, 189, 224);
+}
+table{
+    border: 1px solid;
+    background-color: white;
+}
+.message{
+    width: 99%;
+    height: 100px;
+    display: inline;
+}
+.user{
+    width: 99%;
+    height: 100px;
+    display: flex;
+}
+
+.hidden{
+    display: none;
+}
