@@ -1,5 +1,7 @@
 # Final Project
 
+Creating a website that mimics a commercial site like eBay, with a focus on backend development.
+
 
 Add your names here!
 John King
